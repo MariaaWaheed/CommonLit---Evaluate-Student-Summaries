@@ -1,4 +1,5 @@
 Link tot the Competition: https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries/submissions
+
 My team placed 162nd out of 2064 teams.
 
 
